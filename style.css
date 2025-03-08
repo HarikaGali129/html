@@ -1,0 +1,47 @@
+
+    .tahoma{
+        font-family: tahoma;
+        font-weight: bold;
+        font-size: 30px;
+        text-align: center;
+    }
+    .Arial{
+        font-family: Arial;
+        font-size: 30px;
+        text-align: center;
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+    .text{
+        color:red;
+        font-style: italic;
+        
+        font-size: 40px;
+        margin-top: 10px;
+       text-align:center;
+    } 
+    .LearnMore{
+        color:rgb(77, 77, 247);
+        text-align: center;
+
+    }
+    .span:hover{
+        text-decoration: underline;
+    }
+    .paragraph{
+        font-size: 25px;
+        width:380px;
+        text-align:justify;
+    }
+    .spanClass1{
+        font-size: 10px;
+        color: gray;
+        
+    }
+    .number{
+        text-align: center;
+        font-weight: 200px;
+    }
+    .class2{
+        color:red;
+    }

@@ -1,0 +1,49 @@
+.pickup{
+display: block;
+width:300px;
+margin-top: 20px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 10px;
+padding-bottom:10px ;
+}
+.drop{
+    display: block;
+width:300px;
+margin-top: 20px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 10px;
+padding-bottom:10px ;
+}
+.requestNowButton{
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 16px;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+  .requestNowButton:active{
+ background-color: rgba(255, 255, 255, 0.484);
+  }  
+
+
+.ScheduleButton{
+  
+    background-color: white;
+    color:black;
+    border:none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 16px;
+    margin-right: 20px;
+    margin-top: 10px;
+     
+}
